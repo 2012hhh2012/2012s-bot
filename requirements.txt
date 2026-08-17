@@ -1,0 +1,16 @@
+discord.py
+python-dotenv
+google-genai
+groq
+jishaku
+aiohttp
+lyricsgenius
+google-cloud-firestore
+apscheduler
+cerebras
+mafic
+pynacl
+davey
+mcstatus
+openai
+markovify
